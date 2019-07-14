@@ -1,4 +1,4 @@
-This repository contains tasks from Michigan State University python specialization.
+This repository contains assignments from Michigan State University python specialization.
 
 This Specialization builds on fundamental programming concepts including data
 structures, networked application program interfaces, and databases,
