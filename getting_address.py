@@ -1,4 +1,4 @@
-#  Capstone Project
+#  The Capstone Project
 
 import urllib.request, urllib.parse, urllib.error
 import json
